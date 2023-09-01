@@ -42,7 +42,7 @@ At each move, it looks at available moves, plays them out recursively to establi
 
 This allows it to play perfectly without losing (unless the player gets lucky and forces a draw).
 
-###To Do
+### To Do
 
 Some ideas for improvements:
 
@@ -52,5 +52,5 @@ Some ideas for improvements:
 - Allow the computer to play against itself
 - Implement alpha-beta pruning for faster performance
 
-License
+### License
 This project is open source and available under the MIT License.
