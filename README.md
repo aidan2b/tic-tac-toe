@@ -43,6 +43,7 @@ At each move, it looks at available moves, plays them out recursively to establi
 This allows it to play perfectly without losing (unless the player gets lucky and forces a draw).
 
 ###To Do
+
 Some ideas for improvements:
 
 - Let the user choose to go first or second
